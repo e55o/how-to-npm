@@ -1,0 +1,20 @@
+{
+  "name": "@marc.esso/how-to-npm",
+  "version": "1.0.3",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "test",
+  "dependencies": {},
+  "repository": {
+    "url": "git+https://github.com/e55o/learn.git"
+  },
+  "bugs": {
+    "url": "https://github.com/e55o/learn/issues"
+  },
+  "homepage": "https://github.com/e55o/learn#readme",
+  "devDependencies": {}
+}
